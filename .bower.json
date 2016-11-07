@@ -23,7 +23,7 @@
   "_resolution": {
     "type": "version",
     "tag": "1.0.1",
-    "commit": "43a03bc9b8c1d9d20d57ee9ee3e6af6735161b9f"
+    "commit": "4c98b9a68dad9beaa4715e4736abcc5a10a288aa"
   },
   "_source": "https://github.com/kdee15/preprocessor.core",
   "_target": "~1.0.0",
