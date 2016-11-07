@@ -1,0 +1,22 @@
+{
+  "name": "preprocessor.core",
+  "version": "1.0.1",
+  "homepage": "https://github.com/kdee15/preprocessor.core",
+  "authors": [
+    "Kirk Daniels"
+  ],
+  "description": "just a simple preprocessor base.",
+  "main": "mixins/",
+  "keywords": [
+    "gulp",
+    "preprocessor"
+  ],
+  "license": "Apache License, Version 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
