@@ -1,17 +1,18 @@
 {
   "name": "preprocessor.core",
-  "version": "1.0.1",
   "homepage": "https://github.com/kdee15/preprocessor.core",
   "authors": [
-    "Kirk Daniels"
+    "Kirk Daniels <kdee15@gmail.com>"
   ],
-  "description": "just a simple preprocessor base.",
-  "main": "mixins/",
+  "description": "basic startup css & jquery project folder",
+  "main": "layout/",
   "keywords": [
+    "preprocessor",
     "gulp",
-    "preprocessor"
+    "grunt",
+    "compass"
   ],
-  "license": "Apache License, Version 2.0",
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
