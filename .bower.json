@@ -6,7 +6,6 @@
     "Kirk Daniels"
   ],
   "description": "just a simple preprocessor base.",
-  "main": "mixins/",
   "keywords": [
     "gulp",
     "preprocessor"
